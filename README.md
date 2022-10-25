@@ -28,9 +28,9 @@
 
 ### Посмотреть макет можно по ссылке ↓
 
-[«Макет Проекта»](https://www.figma.com/file/cGiStCX61OSwYlqHgCUA6d/Hello-World?node-id=0%3A1)
+[«Макет Проекта»](https://www.figma.com/file/Ahf7RW7n8VIdb6OnIzzwBE/Des-Mond?node-id=0%3A1)
 
 
 ### Посмотреть сайт можно по ссылке ↓
 
-[«Сам Проект»](https://alexparanoir.github.io/start-kit/)
+[«Сам Проект»](https://drugoi222-coder.github.io/Des-Mond/)
