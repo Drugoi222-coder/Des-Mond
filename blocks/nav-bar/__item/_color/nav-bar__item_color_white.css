@@ -14,9 +14,9 @@
 .nav-bar__item_color_white:last-child::after {
     content: "";
     position: absolute;
-    width: 100%;
+    width: 36px;
     height: 100%;
     top: 10%;
-    right: -112%;
+    right: -36%;
     background: no-repeat url('../../../../images/header/Bottle\ of\ milk.svg');
 }
