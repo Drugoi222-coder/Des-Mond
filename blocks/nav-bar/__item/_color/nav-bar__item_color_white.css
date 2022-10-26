@@ -1,0 +1,22 @@
+.nav-bar__list > .nav-bar__item_color_white {
+    margin-left: 110px;
+    color: white;
+}
+
+.nav-bar__list > .nav-bar__item_color_white ~ .nav-bar__item_color_white {
+    margin-left: 40px;
+}
+
+.nav-bar__item_color_white:last-child {
+    position: relative;
+}
+
+.nav-bar__item_color_white:last-child::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 10%;
+    right: -112%;
+    background: no-repeat url('../../../../images/header/Bottle\ of\ milk.svg');
+}

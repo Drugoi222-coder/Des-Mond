@@ -1,0 +1,5 @@
+.nav-bar__item {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: var(--links);
+    margin-left: 40px;
+}

@@ -5,8 +5,22 @@
 @import '../blocks/page/page.css';
 /* Header */ 
 @import '../blocks/header/header.css';
-@import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__info/header__info.css';
+@import '../blocks/header/__info/_title/header__info_title.css';
+@import '../blocks/header/__info/_descr/header__info_descr.css';
+@import '../blocks/header/__info/_highlight/header__info_highlight.css';
+@import '../blocks/header/__info/_item/header__info_item.css';
+/* @import  */
 /* Main */
 @import '../blocks/main/main.css';
 /* Footer */
 @import '../blocks/footer/footer.css';
+/* Container */
+@import '../blocks/container/container.css';
+/* Nav-bar */
+@import '../blocks/nav-bar/nav-bar.css';
+@import '../blocks/nav-bar/__item/nav-bar__item.css';
+@import '../blocks/nav-bar/__list/nav-bar__list.css';
+@import '../blocks/nav-bar/__item/_color/nav-bar__item_color_brown.css';
+@import '../blocks/nav-bar/__item/_color/nav-bar__item_color_white.css';
+@import '../blocks/nav-bar/__link/nav-bar__link.css';

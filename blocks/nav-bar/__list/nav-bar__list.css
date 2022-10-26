@@ -1,0 +1,6 @@
+.nav-bar__list{
+    width: 640px;
+    margin: 0 auto;
+    display: flex;
+    list-style-type: none;
+}

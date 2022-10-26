@@ -1,0 +1,18 @@
+.nav-bar__item_color_brown {
+    color: var(--main-color);
+}
+
+.nav-bar__item_color_brown:first-child {
+    margin-left: 15px;
+    position: relative;
+}
+
+.nav-bar__item_color_brown:first-child::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -13%;
+    left: -38%;
+    background: no-repeat url('../../../../images/header/Coffee\ seed.svg');
+}
