@@ -1,0 +1,9 @@
+.footer__txt {
+    margin: 0;
+    font-family: 'Cormorant Garamond';
+    font-size: 24px;
+    line-height: 29px;
+}
+.footer__txt:not(:nth-child(2n+1)) {
+    margin-top: 29px;
+}

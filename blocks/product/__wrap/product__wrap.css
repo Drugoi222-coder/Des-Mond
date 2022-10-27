@@ -1,0 +1,7 @@
+.product__wrap {
+    display: flex;
+    width: 61.5%;
+    margin: 0 auto;
+    margin-top: 55px;
+    justify-content: space-between;
+}
