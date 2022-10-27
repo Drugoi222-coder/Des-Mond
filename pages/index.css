@@ -1,16 +1,12 @@
 @import '../vendor/normalize.css';
 @import '../vendor/variables.css';
 @import '../vendor/fonts/fonts.css';
+/* @import  */
 /* Blocks */ 
 @import '../blocks/page/page.css';
 /* Header */ 
 @import '../blocks/header/header.css';
 @import '../blocks/header/__info/header__info.css';
-@import '../blocks/header/__info/_title/header__info_title.css';
-@import '../blocks/header/__info/_descr/header__info_descr.css';
-@import '../blocks/header/__info/_highlight/header__info_highlight.css';
-@import '../blocks/header/__info/_item/header__info_item.css';
-/* @import  */
 /* Main */
 @import '../blocks/main/main.css';
 /* Footer */
@@ -24,3 +20,15 @@
 @import '../blocks/nav-bar/__item/_color/nav-bar__item_color_brown.css';
 @import '../blocks/nav-bar/__item/_color/nav-bar__item_color_white.css';
 @import '../blocks/nav-bar/__link/nav-bar__link.css';
+/* Info  */
+@import '../blocks/info/__descr/info__descr.css';
+@import '../blocks/info/__highlight/info__highlight.css';
+@import '../blocks/info/__item/info__item.css';
+@import '../blocks/info/__title/info__title.css';
+/* Main */
+@import '../blocks/main/__companies/main__companies.css';
+@import '../blocks/main/__company/main__company.css';
+@import '../blocks/main/__descr/main__descr.css';
+@import '../blocks/main/__img/main__img.css';
+@import '../blocks/main/__text/main__text.css';
+@import '../blocks/main/__title/main__title.css';

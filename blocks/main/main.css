@@ -1,3 +1,7 @@
 .main{
-    
+    padding-top: 38px;
+    padding-left: 312px;
+    height: 562px;
+    color: white;
+    background: linear-gradient(90deg , var(--extra-color) 60.2% , transparent 60.2%), right top / 39.8% url('../../images/main/partners-img.png') no-repeat; 
 }
