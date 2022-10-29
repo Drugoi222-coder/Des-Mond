@@ -6,8 +6,8 @@
     .nav-bar::after {
         content: "";
         position: absolute;
-        top: -80px;
-        right: -10px;
+        top: -76px;
+        right: -5px;
         width: 60px;
         height: 60px;
         background: url('../../images/header/burger.svg') no-repeat;

@@ -1,3 +1,9 @@
 .product-card {
     width: 288px;
 }
+
+@media (max-width: 767px) {
+    .product-card {
+        width: unset;
+    }
+}

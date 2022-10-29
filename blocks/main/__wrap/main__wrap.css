@@ -9,7 +9,7 @@
 }
 @media (max-width: 767px) {
     .main__wrap {
-        width: 306px;
+        width: auto;
         margin: 0 auto;
     }
 }

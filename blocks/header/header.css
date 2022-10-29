@@ -1,14 +1,14 @@
 .header{
-    padding: 29px 0 0 0;
+    padding-top: 29px;
     height: 671px;
     background: 0% 50% / 50% url("../../images/header/coffee&milk.png") no-repeat , linear-gradient(90deg,transparent 50%, var(--main-color) 50%);
 }
 
 @media (max-width: 767px) {
     .header {
+        padding-top: 107px;
         height: 700px;
-        background: linear-gradient(var(--main-color) 71%, transparent 71%) , center 22% / 100% url("../../images/header/coffee&milk.png") no-repeat;    
-        padding-top: 100px;
+        background: linear-gradient(var(--main-color) 71%, transparent 71%) , center 22% / 100% url("../../images/header/coffee&milk.png") no-repeat;
         box-sizing: border-box;
     }
 }

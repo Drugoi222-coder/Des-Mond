@@ -4,3 +4,8 @@
     margin-top: 36px;
     font-size: var(--txt);
 }
+@media (max-width: 479px) {
+    .info__descr {
+        margin-top: 13px;
+    }
+}

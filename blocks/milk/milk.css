@@ -8,3 +8,8 @@
         max-height: inherit;
     }
 }
+@media (max-width: 767px) {
+    .milk {
+        padding-bottom: 53px;
+    }
+}
