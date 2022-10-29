@@ -7,12 +7,27 @@
 @media (max-width: 767px) {
     .header {
         height: 700px;
-        background: linear-gradient(var(--main-color) 71%, transparent 71%) , center -14% / 100% url("../../images/header/coffee&milk.png") no-repeat;    
+        background: linear-gradient(var(--main-color) 71%, transparent 71%) , center 22% / 100% url("../../images/header/coffee&milk.png") no-repeat;    
         padding-top: 100px;
         box-sizing: border-box;
     }
 }
-@media (max-width: 479px) {
+@media (max-width: 530px) {
+    .header {
+        background: linear-gradient(var(--main-color) 71%, transparent 71%) , center -4% / 100% url("../../images/header/coffee&milk.png") no-repeat
+    }
+}
+@media (max-width: 424px) {
+    .header {
+        background: linear-gradient(var(--main-color) 71%, transparent 71%) , center -54% / 100% url("../../images/header/coffee&milk.png") no-repeat
+    }
+}
+@media (max-width: 374px) {
+    .header {
+        background: linear-gradient(var(--main-color) 71%, transparent 71%) , center -134% / 100% url("../../images/header/coffee&milk.png") no-repeat
+    }
+}
+@media (max-width: 320px) {
     .header {
         background: linear-gradient(var(--main-color) 71%, transparent 71%) , center -395% / 100% url("../../images/header/coffee&milk.png") no-repeat
     }
