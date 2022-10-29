@@ -7,3 +7,19 @@
 .footer__txt:not(:nth-child(2n+1)) {
     margin-top: 29px;
 }
+
+@media (max-width: 767px) {
+    .footer__txt {
+        margin-top: 29px;
+    }
+    .footer__txt:first-child {
+        margin-top: 0px;
+    }
+}
+
+@media (max-width: 479px) {
+    .footer__txt {
+        width: 247px;
+        word-wrap: break-word;
+    }
+}

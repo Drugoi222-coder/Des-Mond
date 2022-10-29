@@ -20,3 +20,12 @@
     right: -36%;
     background: no-repeat url('../../../../images/header/Bottle\ of\ milk.svg');
 }
+
+@media (max-width: 1023px) {
+    .nav-bar__list > .nav-bar__item_color_white ~ .nav-bar__item_color_white {
+        margin-left: 20px;
+    }
+    .nav-bar__list > .nav-bar__item_color_white {
+        margin-left: 50px;
+    }
+}

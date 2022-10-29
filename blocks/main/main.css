@@ -1,7 +1,33 @@
 .main{
     padding-top: 38px;
-    padding-left: 212px;
     height: 562px;
     color: white;
-    background: linear-gradient(90deg , var(--extra-color) 60.2% , transparent 60.2%), right top / 39.8% url('../../images/main/partners-img.png') no-repeat; 
+    background: linear-gradient(90deg , var(--extra-color) 64% , transparent 64%), right top / 36% url('../../images/main/partners-img.png') no-repeat; 
+}
+
+@media (max-width: 1279px) {
+    .main {
+        background: linear-gradient(90deg , var(--extra-color) 68%, transparent 68%), 110% top / 44% url('../../images/main/partners-img.png') no-repeat; 
+    }
+}
+
+@media (max-width: 1023px) {
+    .main {
+        height: 768px;
+        background: linear-gradient(90deg , var(--extra-color) 64%, transparent 64%), 175% top / 78% url('../../images/main/partners-img.png') no-repeat; 
+    }
+}
+
+@media (max-width: 767px) {
+    .main {
+        height: 1020px;
+        background: linear-gradient(var(--extra-color) 75%, transparent 75%),center 150% / 100% url('../../images/main/partners-img.png') no-repeat;    
+    }
+}
+
+@media (max-width: 479px) {
+    .main {
+        height: 1270px;
+        background: linear-gradient(var(--extra-color) 80%, transparent 80%),center 110% / 100% url('../../images/main/partners-img.png') no-repeat;    
+    }
 }

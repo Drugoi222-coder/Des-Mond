@@ -3,3 +3,8 @@
     font-size: var(--links);
     margin-left: 40px;
 }
+@media (max-width: 1023px) {
+    .nav-bar__item {
+        margin-left: 20px;
+    }
+}

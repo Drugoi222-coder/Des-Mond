@@ -3,3 +3,9 @@
     margin-top: 161px;
     margin-left: 56.5%;
 }
+
+@media (max-width: 767px) {
+    .header__info {
+        margin: 0;
+    }
+}

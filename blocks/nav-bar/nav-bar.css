@@ -1,3 +1,15 @@
 .nav-bar {
+    position: relative;
+}
 
+@media (max-width: 767px) {
+    .nav-bar::after {
+        content: "";
+        position: absolute;
+        top: -80px;
+        right: -10px;
+        width: 60px;
+        height: 60px;
+        background: url('../../images/header/burger.svg') no-repeat;
+    }
 }

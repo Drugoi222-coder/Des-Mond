@@ -32,7 +32,7 @@
 @import '../blocks/info/__item/info__item.css';
 @import '../blocks/info/__title/info__title.css';
 /* Main */
-@import '../blocks/main/main.css';
+@import '../blocks/main/__wrap/main__wrap.css';
 @import '../blocks/main/__companies/main__companies.css';
 @import '../blocks/main/__company/main__company.css';
 @import '../blocks/main/__descr/main__descr.css';
