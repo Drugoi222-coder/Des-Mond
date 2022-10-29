@@ -33,4 +33,4 @@
 
 ### Посмотреть сайт можно по ссылке ↓
 
-[«Сам Проект»](https://drugoi222-coder.github.io/Des-Mond/)
+[«Проект»](https://drugoi222-coder.github.io/Des-Mond/)
