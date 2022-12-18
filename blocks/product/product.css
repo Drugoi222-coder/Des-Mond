@@ -1,0 +1,16 @@
+.product {
+    height: 430px;
+}
+
+@media (max-width: 1023px) {
+    .product {
+        height: 100%;
+        padding-bottom: 67px;
+        padding-top: 38px;
+    }
+}
+@media (max-width: 767px) {
+    .product {
+        padding-bottom: 37px;
+    }
+}

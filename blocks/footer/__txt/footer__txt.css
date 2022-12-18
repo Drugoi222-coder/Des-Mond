@@ -1,0 +1,29 @@
+.footer__txt {
+    margin: 0;
+    font-family: 'Cormorant Garamond';
+    font-size: 24px;
+    line-height: 29px;
+}
+.footer__txt:not(:nth-child(2n+1)) {
+    margin-top: 29px;
+}
+
+@media (max-width: 767px) {
+    .footer__txt {
+        margin-top: 15px;
+    }
+    .footer__txt:first-child {
+        margin-top: 0px;
+    }
+    .footer__txt:not(:nth-child(2n+1)) {
+        margin-top: 15px;
+    }
+    
+}
+
+@media (max-width: 479px) {
+    .footer__txt {
+        width: 247px;
+        word-wrap: break-word;
+    }
+}

@@ -1,0 +1,10 @@
+.footer__column_position_right {
+    text-align: right;
+}
+
+@media (max-width: 767px) {
+    .footer__column_position_right {
+        text-align: left;
+        margin-top: 15px;
+    }
+}

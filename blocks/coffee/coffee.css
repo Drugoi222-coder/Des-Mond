@@ -1,0 +1,11 @@
+.coffee {
+    background: center / 100% url('../../images/coffee/coffee-beans.png') no-repeat;
+    padding-top: 38px;
+}
+
+@media (max-width: 1023px) {
+    .coffee {
+        background: center / 100vh url('../../images/coffee/coffee-beans.png') no-repeat;
+        padding-bottom: 36px;
+    }
+}

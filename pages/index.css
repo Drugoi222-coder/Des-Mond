@@ -1,0 +1,54 @@
+@import '../vendor/normalize.css';
+@import '../vendor/variables.css';
+@import '../vendor/fonts/fonts.css';
+/* @import  */
+/* Blocks */
+@import '../blocks/page/page.css';
+/* Header */
+@import '../blocks/header/header.css';
+@import '../blocks/header/__info/header__info.css';
+/* Main */
+@import '../blocks/main/main.css';
+@import '../blocks/main/__wrap/main__wrap.css';
+@import '../blocks/main/__companies/main__companies.css';
+@import '../blocks/main/__company/main__company.css';
+@import '../blocks/main/__descr/main__descr.css';
+@import '../blocks/main/__img/main__img.css';
+@import '../blocks/main/__text/main__text.css';
+@import '../blocks/main/__title/main__title.css';
+@import '../blocks/main/__intro/main__intro.css';
+/* Footer */
+@import '../blocks/footer/footer.css';
+@import '../blocks/footer/__column/footer__column.css';
+@import '../blocks/footer/__txt/footer__txt.css';
+@import '../blocks/footer/__wrap/footer__wrap.css';
+@import '../blocks/footer/__column/_position/footer__column_position_left.css';
+@import '../blocks/footer/__column/_position/footer__column_position_right.css';
+/* Container */
+@import '../blocks/container/container.css';
+/* Nav-bar */
+@import '../blocks/nav-bar/nav-bar.css';
+@import '../blocks/nav-bar/__item/nav-bar__item.css';
+@import '../blocks/nav-bar/__list/nav-bar__list.css';
+@import '../blocks/nav-bar/__item/_color/nav-bar__item_color_brown.css';
+@import '../blocks/nav-bar/__item/_color/nav-bar__item_color_white.css';
+@import '../blocks/nav-bar/__link/nav-bar__link.css';
+/* Info  */
+@import '../blocks/info/info.css';
+@import '../blocks/info/__descr/info__descr.css';
+@import '../blocks/info/__highlight/info__highlight.css';
+@import '../blocks/info/__item/info__item.css';
+@import '../blocks/info/__title/info__title.css';
+/* Product */
+@import '../blocks/product/product.css';
+@import '../blocks/product/__card/product__card.css';
+@import '../blocks/product/__title/product__title.css';
+@import '../blocks/product/__wrap/product__wrap.css';
+/* Product-Card */
+@import '../blocks/product-card/product-card.css';
+@import '../blocks/product-card/__img/product-card__img.css';
+@import '../blocks/product-card/__title/product-card__title.css';
+/* Coffee */
+@import '../blocks/coffee/coffee.css';
+/* Milk */
+@import '../blocks/milk/milk.css';

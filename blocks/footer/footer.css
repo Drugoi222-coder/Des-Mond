@@ -1,0 +1,12 @@
+.footer{
+    background-color: var(--main-color);
+    color: white;
+    max-height: 187px;
+    padding: 50px 0;
+}
+
+@media (max-width: 479px) {
+    .footer {
+        max-height: fit-content;
+    }
+}

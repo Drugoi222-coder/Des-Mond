@@ -1,0 +1,29 @@
+.main__descr {
+    width: 494px;
+    margin-top: 35px;
+    text-align: justify;
+    font-size: 24px;
+    line-height: 29px;
+    font-family: 'Cormorant Garamond';
+}
+@media (max-width: 1279px) {
+    .main__descr {
+        width: 395px;
+        margin-top: 23px;
+    }
+}
+@media (max-width: 1023px) {
+    .main__descr {
+        width: 296px;
+    }
+}
+@media (max-width: 767px) {
+    .main__descr {
+        width: unset;
+    }
+}
+@media (max-width: 479px) {
+    .main__descr {
+        width: 284px;
+    }
+}
